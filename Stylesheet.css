@@ -1,9 +1,14 @@
 body {
     color: red;
+    background-color: pink;
+    text-align: center;
+
 }
 title {
     color: blue;
+    text-align: center;
 }
 p {
-    background-color: black;
+    background-color: white;
+    text-align: centre;
 }

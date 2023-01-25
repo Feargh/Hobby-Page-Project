@@ -5,15 +5,14 @@ Brief: Your first project is to create a Hobby Page. This can be about one of yo
 Requirements
 Planning 
 
-
-
 **Planning:**
-Learning some basic coding with freecodecamp.
+I will learning some basic coding with freecodecamp.
 Read the github guide to understand how to put the Hobby website onto the github server.
+Figure out how to Github pages
 Pick a hobby.
 Think about a design.
     
 **Building:**
-Need to use HTM to build the site, style it with CSS and use some javascript.
+Need to use HTML to build the site, style it with CSS and use some javascript.
     
 **Debugging:** (the process of identifying and removing errors from computer hardware or software.)
