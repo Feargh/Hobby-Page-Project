@@ -1,14 +1,18 @@
 body {
-    color: red;
-    background-color: pink;
+    color: white;
+    background-color: navy;
     text-align: center;
-
+    text: white;
 }
 title {
     color: blue;
     text-align: center;
 }
+h1 {
+    color: black;
+    align: center;
+}
 p {
-    background-color: white;
-    text-align: centre;
+    background-color: darkcyan;
+    align: center;
 }
