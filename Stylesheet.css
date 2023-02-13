@@ -4,21 +4,20 @@ body {
     text-align: center;
     text: white;
     padding: 0 10%;
+    font-family: sans-serif;
 }
 h1 {
     font-size: 3.5em;
     color: aliceblue;
-    align: center;
-    font-family: sans-serif;
+    
 }
 h2 {
     font-size: 3em;
 }
-p {
+p, li {
     background-color: rgb(4, 55, 55);
-    align: center;
 }
 img {
-    width: 100%;
+    width: 90%;
     height: auto;
 }
