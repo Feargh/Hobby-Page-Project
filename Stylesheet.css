@@ -1,18 +1,24 @@
 body {
     color: white;
-    background-color: navy;
+    background-color: rgb(4, 15, 59);
     text-align: center;
     text: white;
-}
-title {
-    color: blue;
-    text-align: center;
+    padding: 0 10%;
 }
 h1 {
-    color: black;
+    font-size: 3.5em;
+    color: aliceblue;
     align: center;
+    font-family: sans-serif;
+}
+h2 {
+    font-size: 3em;
 }
 p {
-    background-color: darkcyan;
+    background-color: rgb(4, 55, 55);
     align: center;
+}
+img {
+    width: 100%;
+    height: auto;
 }
