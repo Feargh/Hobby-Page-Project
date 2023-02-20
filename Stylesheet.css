@@ -1,8 +1,8 @@
 body {
     color: white;
-    background-color: rgb(4, 15, 59);
+    /* background-color: rgb(4, 15, 59); */
+    background: linear-gradient(100deg, rgb(4, 15, 59) 60%, rgb(4, 55, 55) 80%);
     text-align: center;
-    text: white;
     padding: 0 10%;
     font-family: sans-serif;
 }
@@ -14,9 +14,9 @@ h1 {
 h2 {
     font-size: 3em;
 }
-p, li {
+/* p, li {
     background-color: rgb(4, 55, 55);
-}
+} */
 img {
     width: 90%;
     height: auto;
